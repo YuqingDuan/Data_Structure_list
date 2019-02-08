@@ -1,0 +1,9 @@
+----int_test----
+insert: true
+appendLast: true
+insertFirst: true
+isEmpty: false
+size: 3
+30
+20
+10
